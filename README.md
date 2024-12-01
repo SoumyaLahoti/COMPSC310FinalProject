@@ -125,7 +125,6 @@ CREATE TABLE Med_Rec (
     Diagnosis VARCHAR(250),
     Treatments VARCHAR(250),
     Ailment VARCHAR(50),
-    Allergy VARCHAR(50),
     medicine VARCHAR(50)
 );
 
