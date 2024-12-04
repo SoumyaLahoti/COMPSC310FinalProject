@@ -1,0 +1,16 @@
+Med_Rec,Diagnosis,Treatments,Ailment
+MR001,Fractured Femur,"Surgery, X-Ray, Pre-and Post- Op Care, Sedation and Pain Management",Bone Fracture
+MR002,Appendicitis,"Appendectomy, Pre-and Post- Op Care, Sedation and Pain Management",Acute Inflammation
+MR003,ACL Tear,"ACL Reconstruction Surgery, Physical Therapy, X-Ray, Pre-and Post- Op Care, Sedation and Pain Management",Ligament Injury
+MR004,ACL Tear,"ACL Reconstruction Surgery, Physical Therapy, X-Ray, Pre-and Post- Op Care, Sedation and Pain Management",Ligament Injury
+MR005,Fractured Rib,"Surgery, X-Ray, Pre-and Post- Op Care, Sedation and Pain Management",Bone Fracture
+MR006,Benign Breast Tumor,"Mastectomy, MRI, CT, Pre-and Post- Op Care",Breast Cancer
+MR007,Leukemia,"Chemotherapy, MRI, CT, Blood Test Panel",Blood Cancer
+MR008,Fractured Neck,"Surgery, X-Ray, Pre-and Post- Op Care, Sedation and Pain Management",Bone Fracture
+MR009,Fractured Spine,"Surgery, X-Ray, Pre-and Post- Op Care, Sedation and Pain Management",Bone Fracture
+MR010,Bronchiolitis,"Oxygen Therapy, Emergency Pediatric Care, Pediatric Anesthesia",Pediatric Respiratory Condition
+MR011,Appendicitis,"Appendectomy, Antibiotics, Pre-and Post- Op Care, Sedation and Pain Management",Acute Inflammation
+MR012,Benign Breast Tumor,"Mastectomy, MRI, CT, Pre-and Post- Op Care",Breast Cancer
+MR013,Pediatric Leukemia,"Chemotherapy, CT, MRI, Emergency Pediatric Care, Pediatric Anesthesia",Blood Cancer
+MR014,ACL Tear,"ACL Reconstruction Surgery, Physical Therapy, X-Ray, Pre-and Post- Op Care, Sedation and Pain Management",Ligament Injury
+MR015,Appendicitis,"Appendectomy, Antibiotics, Pre-and Post- Op Care",Acute Inflammation

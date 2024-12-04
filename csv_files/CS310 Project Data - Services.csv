@@ -1,0 +1,28 @@
+Service_ID,Service_Name,Type,Cost
+S001,General Consultation,Active,100
+S002,Specialist Consultation,Active,150
+S003,Routine Check-up,Active,80
+S004,Blood Test Panel,Passive,50
+S005,MRI Scan,Passive,500
+S006,CT Scan,Passive,450
+S007,X-Ray,Passive,100
+S008,Antibiotics,Active,200
+S009,Physical Therapy,Active,75
+S010,Chemotherapy,Passive,400
+S011,Emergency Pediatric Care,Active,1200
+S012,Mastectomy,Active,8000
+S013,Appendectomy,Active,8000
+S014,Herniorraphy,Active,8000
+S015,Oxygen Therapy,Passive,8000
+S016,ACL Reconstruction Surgery,Active,500
+S017,Private Room,Passive,150
+S018,Room Cleaning,Passive,10
+S019,Shared Room,Passive,100
+S020,Anesthesia Management,Active,2000
+S021,Blood Transfusion,Active,300
+S022,Patient Transport,Passive,100
+S023,Pediatric Pre- and Post-Op Care,Active,900
+S024,Pre- and Post-Op Care,Active,900
+S025,Dialysis,Passive,800
+S026,Pediatric Anesthesia,Active,500
+S027,Sedation and Pain Management,Passive,400

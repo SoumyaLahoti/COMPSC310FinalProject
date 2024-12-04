@@ -1,0 +1,21 @@
+EID,Name,Sex,EmpType,Phone,Dept_ID,Password
+E001,Dr. Amelia Bennett,Female,Doctor,111-911-9032,D001,Ab3nn3t!
+E002,Michael Thompson,Male,Nurse,213-232-6764,D001,Th0mpN12#
+E003,Dr. Linda Chen,Female,Doctor,555-214-3567,D002,L1ndaC!34
+E004,Dr. Samuel Lee,Male,Doctor,333-445-3345,D002,S@mL33doc
+E005,Olivia Martinez,Female,Nurse,432-543-6784,D002,Ol1vNurs$
+E006,Rajesh Patel,Male,Nurse,432-643-123,D002,R@jeshP88
+E007,Emily Foster,Female,Nurse,415-342-4322,D003,EmFos#N88
+E008,Dr. Carlos Rivera,Male,Doctor,919-695-0732,D003,C@rl0sMD11
+E009,Jasmine Nguyen,Female,Nurse,919-895-3434,D003,JasN23F!
+E010,Dr. Henry Walker,Male,Nurse,945-574-5744,D003,HenW@lkD
+E011,Sophia Hernandez,Female,Nurse,567-234-7654,D004,Soph1@Nrs
+E012,Dr. Mark Evans,Male,Doctor,214-324-3521,D004,M@rkEvf99
+E013,Dr. Natalie Scott,Female,Doctor,764-867-8764,D004,Nat!ScDoc
+E014,Benjamin Clark,Male,Nurse,645-532-8653,D004,BenC#rkN
+E015,Maria Lopez,Female,Nurse,754-654-5421,D004,M@rLoFd21
+E016,Dr. William Adams,Male,Doctor,233-231-9865,D005,Will@DrAd
+E017,Ava Robinson,Female,Nurse,324-789-3421,D005,AvaR$N101
+E018,Ethan Davis,Male,Nurse,432-843-2197,D005,EthDavF33
+E019,Dr. Chloe White,Female,Doctor,643-671-9823,D005,Chlo@WhMD
+E020,Ryan Kim,Male,Nurse,642-312-7654,D005,RyKimN**8
